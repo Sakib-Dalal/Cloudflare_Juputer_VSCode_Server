@@ -5,7 +5,7 @@
 
 # === USER SETTINGS ===
 EMAIL_SENDER="sakibdalal73@gmail.com"
-EMAIL_PASSWORD="vwmy kcbe btcy yebn"
+EMAIL_PASSWORD="KEY"
 EMAIL_RECEIVER="sakibdalal73@gmail.com"
 
 VENV_PATH="/home/pi/base"
